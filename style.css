@@ -1,0 +1,46 @@
+.container
+{
+    background-color: azure;
+    margin:10px;
+}
+.para
+{
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 5px;
+    /*background-color: rgba(86, 202, 241, 0.904);*/
+    font-size: 20px;
+    font-family: cursive;
+    box-shadow: 2px 2px 2px 2px black;
+    margin-top:20px;
+    padding-bottom: 20px;
+}
+.a
+{
+    
+    height:80px;
+    width:250px;
+    background: linear-gradient(#9d77f7,#6f3bff);
+    border-radius: 5px;
+    margin-right: 60px;
+    padding-top: 5px;
+    padding-right: 10px;
+    text-align: center;
+    padding-left: 10px;
+    
+    
+    
+}
+a
+{
+    color:black;
+    text-decoration: none;
+}
+#first
+{
+    margin-left:50px;
+}
+header
+{
+    text-align: center;
+}
